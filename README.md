@@ -1,10 +1,10 @@
 #Atividades recomendadas
 
 ###Dias 1–8: HTML
-1. [ ] Aprenda o básico
-2. [ ] Semântica do HTML5
-3. [ ] SEO Básico 
-4. [ ] Accessibilidade
+1. Aprenda o básico
+2. Semântica do HTML5
+3. SEO Básico 
+4. Accessibilidade
 ###Dias 9–16: CSS
 1. [ ] Aprenda o básico
 2. [ ] Construindo layouts
