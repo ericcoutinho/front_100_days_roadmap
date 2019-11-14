@@ -9,12 +9,12 @@
 ### Dias 9–16: CSS
 1. Aprenda o básico
 2. Construindo layouts
-- Floats
-- Posicionamento
-- Display
-- Box Model
-- CSS Grid
-- Flex Box
+_Floats_
+_Posicionamento_
+_Display_
+_Box Model_
+_CSS Grid_
+_Flex Box_
 3. Media Queries
 4. Leia sobre CSS3
 
